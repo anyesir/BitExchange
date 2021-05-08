@@ -3,7 +3,7 @@
 # I think this may be the best choice for you to build an exchange or secondary development
 
 >  Statement 1: I have been working in the new company. I will take the time to update some descriptive things here so that everyone can compile, build, and develop  
->  Statement 2: The APP source code and the trading robot source code are not open source (provided for a fee), if necessary, email: 877070886@qq.com  
+>  Statement 2: The APP source code and the trading robot source code are not open source (provided for a fee), if necessary, email: info@bitexchange.biz  
 
 # I am a chinese，so chinese is my mother language, But I can also use both English and Japanese to communicate with you. 
 
@@ -129,7 +129,7 @@ n short, this system supports a highly customized matching mode. At the same tim
 
 ## Demo website
 
-[https://www.bizzan.com](https://www.bizzan.com)
+[https://www.bizzan.pro](https://www.bizzan.pro)
 
 This was done for the customer, but later the customer stopped operating, so this website was left, because I don’t have server permissions, so this website may not be accessible at any time.
 
@@ -251,7 +251,7 @@ There are some places that need special attention in the use of the function of 
 
 I can provide paid technical assistance and use training guidance!
 
-Email：877070886@qq.com
+Email：info@bitexchange.biz
 
 ## Precautions
 
@@ -419,4 +419,4 @@ The following figure is a brief explanatory diagram of the user recharge monitor
 
 ## Attention
 
-Anyone who uses this source code to engage in commercial activities and causes losses to others and himself is not responsible for me!
+Anyone who uses this source code to engage in commercial activities and causes losses to others and himself is not responsible for me! I can provide paid technical assistance and use training guidance! Email：info@bitexchange.biz
